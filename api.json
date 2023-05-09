@@ -1,0 +1,50 @@
+{
+    "countries": [
+      {
+        "name": "USA",
+        "products": [
+          {
+            "name": "Lipstick",
+            "description": "A classic matte lipstick in a variety of shades.",
+            "price": "$10.99"
+          },
+          {
+            "name": "Mascara",
+            "description": "A volumizing mascara that gives lashes a dramatic look.",
+            "price": "$12.99"
+          }
+        ]
+      },
+      {
+        "name": "France",
+        "products": [
+          {
+            "name": "Foundation",
+            "description": "A lightweight foundation that provides buildable coverage.",
+            "price": "€15.99"
+          },
+          {
+            "name": "Eyeliner",
+            "description": "A long-lasting eyeliner that creates a precise line.",
+            "price": "€9.99"
+          }
+        ]
+      },
+      {
+        "name": "Japan",
+        "products": [
+          {
+            "name": "BB Cream",
+            "description": "A multitasking cream that primes, moisturizes, and provides light coverage.",
+            "price": "¥1500"
+          },
+          {
+            "name": "Sheet Masks",
+            "description": "A pack of hydrating sheet masks that leave skin glowing.",
+            "price": "¥1000"
+          }
+        ]
+      }
+    ]
+  }
+  
